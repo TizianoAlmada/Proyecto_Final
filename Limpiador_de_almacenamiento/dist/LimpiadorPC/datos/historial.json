@@ -1,0 +1,15 @@
+[
+    {
+        "fecha": "2026-10-31 13:50:40",
+        "archivos_eliminados": 6202,
+        "bytes_liberados": 1207452938,
+        "espacio_formateado": "1.12 GB",
+        "categorias": [
+            "Archivos Temporales de Usuario",
+            "Archivos Temporales de Windows",
+            "Papelera de Reciclaje",
+            "Caché de Navegadores Web",
+            "Reportes de Error y Logs Temporales"
+        ]
+    }
+]

@@ -1,4 +1,0 @@
-pygame>=2.5.0
-matplotlib>=3.7.0
-pandas>=2.0.0
-pyinstaller>=6.0.0

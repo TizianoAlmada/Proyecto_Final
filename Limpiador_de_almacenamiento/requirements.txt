@@ -1,0 +1,8 @@
+# Requisitos y Librerías del Proyecto: Limpiador de Espacio para Windows
+# Nivel: 3.º Año - Escuela Técnica con Especialidad en Programación
+
+# Librería para compilar el código a un archivo ejecutable .exe para Windows
+pyinstaller>=6.0.0
+
+# Librería opcional para consultas de almacenamiento del sistema (se incluye fallback automático a 'shutil')
+psutil>=5.9.0
